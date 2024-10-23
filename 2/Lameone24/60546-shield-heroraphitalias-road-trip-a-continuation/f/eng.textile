@@ -6,7 +6,7 @@ Author: Lameone24
 
 Inspired by this post
 
-$iframe data-embed-src="https://www.omorashi.org/topic/52974-raphtalias-road-trip/?do=embed"
+$/52974-raphtalias-road-trip/
 
 %Shield Hero.pdf
 
